@@ -32,45 +32,6 @@ Backend & Databases
 <p> <img src="https://skillicons.dev/icons?i=nodejs,nextjs,mysql" /> </p>
 Tools & Platforms
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" /> </p>
-<!-- ===================== PROJECTS ===================== -->
-Featured Projects
-Spotify Playlist — Musical Time Machine
-
-Tech: Python, Spotify API
-
-Automated playlist creation based on temporal listening patterns
-
-Integrated and analyzed user data via Spotify APIs
-
-🔗 View Repository
-
-SetEvent — Event Management Platform
-
-Tech: HTML, CSS, JavaScript
-
-Web-based platform for planning, scheduling, and coordination
-
-Designed a clean and intuitive user interface
-
-🔗 View Repository
-
-Out of Integer Calculator
-
-Tech: C++, HTML, CSS
-
-UI-based calculator implementing core integer arithmetic
-
-Emphasis on logical clarity and usability
-
-🔗 View Repository
-
-IoT Single-Axis Solar Tracker (Ongoing)
-
-Tech: Arduino, Embedded C/C++
-
-Designed and implemented a tracker with ~33% efficiency improvement
-
-Hardware–software integration
 
 <!-- ===================== OPEN SOURCE ===================== -->
 Open-Source & Community Work
