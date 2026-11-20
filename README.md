@@ -1,72 +1,52 @@
-<!-- ===================== HERO SECTION ===================== --> <h1 align="center">Anuradha Verma</h1> <h3 align="center"> Frontend Developer • B.E. Computer Science (CSE’27) • Open-Source Contributor </h3> <p align="center"> Passionate about building clean, functional, and user-centric digital experiences. </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuradha1304&label=Profile%20Views&color=8A2BE2&style=flat" /> </p> <hr/> <!-- ===================== ABOUT ME ===================== -->
-About Me
+<!-- Paste this into the README.md of the repo github.com/anuradha1304/anuradha1304 -->
 
-Bachelor of Engineering in Computer Science (2023–2027)
-Chandigarh University, Mohali
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,100:dc2626&height=190&section=header&text=Anuradha%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20CSE%20%2727%20%C2%B7%20Chandigarh%20University&descSize=16&descAlignY=58" alt="Anuradha Verma" />
+</p>
 
-Frontend Developer with strong foundations in
-C++, Data Structures & Algorithms, and Web Technologies
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=520&lines=I+build+RAG+%26+LLM-powered+apps.;Open-source+contributor+%40+Joplin.;Offline+on-device+AI+%7C+Data+%2B+SQL+diagnostics." alt="typing intro" />
+</p>
 
-Former Summer Intern — CSIR–CSIO
-Contributed to projects involving scientific instrumentation, debugging, and R&D workflows
+<p align="center">
+  <a href="https://linkedin.com/in/anuradhaverma13"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anuradhav1305@gmail.com"><img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/anuradha1304"><img src="https://img.shields.io/badge/Codolio-111111?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
 
-Open-Source Contributor
-GirlScript Summer of Code (GSSoC)
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-GenAI%20Certified%20Professional-7f1d1d?style=flat-square" />
+  <img src="https://img.shields.io/badge/VisionX%20Ideathon-1st%20Prize-7f1d1d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Joplin-Merged%20PR%20%2314650-7f1d1d?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA-300%2B%20solved-7f1d1d?style=flat-square" />
+  <img src="https://img.shields.io/badge/GFG%20CU%20Chapter-Secretary-7f1d1d?style=flat-square" />
+</p>
 
-Graphic Lead — GeeksforGeeks CU Chapter
-Designed event creatives, posters, and branding assets
+---
 
-Public Speaker & Workshop Volunteer
-Engaged in technology awareness and AI literacy initiatives
+### 👩‍💻 About
+- Final-year CSE student (graduating **June 2027**) focused on **AI/ML engineering**: RAG systems, LLM apps, and on-device ML.
+- Contributor to open source: my PR [#14650](https://github.com/laurent22/joplin/pull/14650) was merged into **Joplin**.
+- Currently building: <!-- TODO: your current project -->
+- Open to **AI/ML & software engineering internships and new-grad roles (2027)**.
 
-<!-- ===================== CONNECT ===================== -->
-Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/anuradhaverma13/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/u/anuradha-verma/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://www.geeksforgeeks.org/profile/anuradhruri" target="_blank"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a> <a href="mailto:anuradhav1305@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<!-- ===================== SKILLS ===================== -->
-Tech Stack & Skills
-Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" /> </p>
-Frontend Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,vue" /> </p>
-Backend & Databases
-<p> <img src="https://skillicons.dev/icons?i=nodejs,nextjs,mysql" /> </p>
-Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" /> </p>
+### 🚀 Featured work
 
-<!-- ===================== OPEN SOURCE ===================== -->
-Open-Source & Community Work
+| Project | What it is | Stack |
+|---|---|---|
+| [**DRISHTI**](https://github.com/anuradha1304/drishti) | Offline face recognition + liveness-check attendance app for remote field sites (hackathon team project) | React Native · TypeScript · TFLite · MediaPipe |
+| [**Olist Operations Diagnostic**](https://github.com/anuradha1304/Delivery-Delay-Diagnostic) | Why are ratings falling? SQL analysis of ~100K orders + LLM-classified complaints + Power BI dashboard | SQL · Python · Gemini · Power BI |
+| [**DocTalk**](https://github.com/anuradha1304/rag-bot) | Chat with your PDFs: multi-PDF RAG with Groq/Gemini switching | LangChain · FAISS · Streamlit |
+| [**Joplin contribution**](https://github.com/laurent22/joplin/pull/14650) | Merged PR to a large open-source note-taking app | TypeScript |
 
-GirlScript Summer of Code — Contributor
+### 🛠️ Tech stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,mongodb,mysql,git,github,vscode&perline=11" />
+</p>
 
-GeeksforGeeks Student Chapter (CU)
+**AI/ML:** LLMs · RAG · LangChain · FAISS · Prompt engineering · Gemini / Groq APIs
 
-Graphic Lead
-
-Core Technical Team Member
-
-Mentored juniors through technical and design initiatives
-
-<!-- ===================== CERTIFICATIONS ===================== -->
-Certifications
-
-Oracle Cloud Infrastructure — Generative AI Professional (2025)
-
-NPTEL — Cloud Computing
-
-Accenture UK — Developer & Technology Job Simulation
-
-<!-- ===================== GITHUB STATS ===================== -->
-GitHub Statistics
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuradha1304&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuradha1304&theme=tokyonight" /> </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuradha1304&layout=compact&theme=tokyonight" /> </p>
-<!-- ===================== EXTRA ===================== -->
-Interests Beyond Coding
-
-Graphic Design & Visual Storytelling
-
-Hosting Workshops & Technical Sessions
-
-Leadership & Community Building
-
-Collaboration
-
-Open to collaborating on projects related to frontend development, open-source, UI/UX, and impactful technology.
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:7f1d1d&height=90&section=footer" />
+</p>
